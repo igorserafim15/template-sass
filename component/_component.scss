@@ -1,0 +1,16 @@
+// Buttons
+.c-btn-primary {
+  display: inline-block;
+  
+  &:hover {
+    background: $color;
+  }
+}
+.c-btn-secondary {
+  display: inline-block;
+  
+  &:hover {
+    background: $color;
+    color: white;
+  }
+}
